@@ -1,6 +1,12 @@
 *.suo
-*.ikl
 *.obj
 *.ncb
 *.user
 *.pcm
+*.manifest
+*.htm
+*.dep
+*.pdb
+*.idb
+*.ilk
+*.res
