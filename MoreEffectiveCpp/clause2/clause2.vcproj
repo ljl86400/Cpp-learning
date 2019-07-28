@@ -202,6 +202,14 @@
 				RelativePath=".\BaseClass.cpp"
 				>
 			</File>
+			<File
+				RelativePath=".\DerivedClass.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\VerifyFunc.cpp"
+				>
+			</File>
 		</Filter>
 	</Files>
 	<Globals>

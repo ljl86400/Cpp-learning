@@ -9,6 +9,7 @@ class BaseClass
 
 	private:
 		void FuncPri();
+		virtual void FuncPri2() = 0; // this virtual function is necessary for dynamic_cast
 
 	};
 
