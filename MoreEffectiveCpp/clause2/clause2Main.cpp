@@ -1,7 +1,11 @@
 #include<iostream>
 #include <stdio.h>
 
-int main()
-{
+#include "BaseClass.h"
+#include "derivedClass.h"
+#include "VerifyFunc.h"
 
+void main()
+{
+	return;
 }
