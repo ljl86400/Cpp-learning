@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="clause1"
-	ProjectGUID="{C9B71065-B356-4E7B-8495-D189BC040021}"
-	RootNamespace="clause1"
+	Name="clause2"
+	ProjectGUID="{171CE7B5-A57B-4763-9986-4C6EF1B4919A}"
+	RootNamespace="clause2"
 	Keyword="Win32Proj"
 	TargetFrameworkVersion="196613"
 	>
@@ -18,7 +18,7 @@
 	<Configurations>
 		<Configuration
 			Name="Debug|Win32"
-			OutputDirectory="$(SolutionDir)\clause1\$(ConfigurationName)"
+			OutputDirectory="$(SolutionDir)\clause2\$(ConfigurationName)"
 			IntermediateDirectory="$(ConfigurationName)"
 			ConfigurationType="1"
 			CharacterSet="1"
@@ -171,7 +171,7 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath=".\clause1Main.cpp"
+				RelativePath=".\clause2Main.cpp"
 				>
 			</File>
 		</Filter>
@@ -181,7 +181,15 @@
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
 			<File
-				RelativePath=".\clause1.h"
+				RelativePath=".\BaseClass.h"
+				>
+			</File>
+			<File
+				RelativePath=".\DerivedClass.h"
+				>
+			</File>
+			<File
+				RelativePath=".\VerifyFunc.h"
 				>
 			</File>
 		</Filter>
@@ -191,7 +199,7 @@
 			UniqueIdentifier="{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}"
 			>
 			<File
-				RelativePath=".\clause1.cpp"
+				RelativePath=".\BaseClass.cpp"
 				>
 			</File>
 		</Filter>
