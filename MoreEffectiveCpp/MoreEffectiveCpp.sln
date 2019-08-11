@@ -9,6 +9,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "clause3", "clause3\clause3.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "clause4", "clause4\clause4.vcproj", "{13B3D4E8-3335-44DD-9BF5-DB7475A42DDA}"
 EndProject
+<<<<<<< HEAD
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "clause5", "clause5\clause5.vcproj", "{1F7C586F-6076-47EE-A2CB-EC5A2F12FFBF}"
+EndProject
+=======
+>>>>>>> master
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +36,13 @@ Global
 		{13B3D4E8-3335-44DD-9BF5-DB7475A42DDA}.Debug|Win32.Build.0 = Debug|Win32
 		{13B3D4E8-3335-44DD-9BF5-DB7475A42DDA}.Release|Win32.ActiveCfg = Release|Win32
 		{13B3D4E8-3335-44DD-9BF5-DB7475A42DDA}.Release|Win32.Build.0 = Release|Win32
+<<<<<<< HEAD
+		{1F7C586F-6076-47EE-A2CB-EC5A2F12FFBF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F7C586F-6076-47EE-A2CB-EC5A2F12FFBF}.Debug|Win32.Build.0 = Debug|Win32
+		{1F7C586F-6076-47EE-A2CB-EC5A2F12FFBF}.Release|Win32.ActiveCfg = Release|Win32
+		{1F7C586F-6076-47EE-A2CB-EC5A2F12FFBF}.Release|Win32.Build.0 = Release|Win32
+=======
+>>>>>>> master
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
